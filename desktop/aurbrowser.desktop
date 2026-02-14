@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Aur-browser
+Comment= GTK4 Powered full function aur browser
+Exec=PATH/TO/EXECUTABLE/aurlooker
+Terminal=false
+Type=Application
+X-GNOME-UsesNotifications=true
+Icon=PATH/TO/IMAGE/aur_drive.svg
